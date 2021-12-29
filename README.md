@@ -1,2 +1,2 @@
 # Study
-What I studied
+What I studied about Data science, AI, CS
